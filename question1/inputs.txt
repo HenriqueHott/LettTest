@@ -1,0 +1,5 @@
+cow 12 44.5 verde
+duck 12 44.5 verde 17.5
+chicken 12 44.5 amarelinho
+bat 7 85.1 verde 14.7
+0

@@ -1,6 +1,6 @@
 # LettTest
 
-Repositório criado para o teste seletivo de estágio em Java/WebCrawler da LettDigital.
+Repositório criado para o teste seletivo de estágio Java (Crawler e Data quality) da LettDigital.
 
 ## Questão 1 - Solução para representação dos animais de uma fazenda
 
@@ -59,7 +59,7 @@ Para **compilar** e **executar** o programa utilize os seguintes comandos:
 
 A entrada do programa pode conter várias linhas. Cada linha de entrada deve conter a URL de algum produto da plataforma. As linhas da entrada são lidas uma a uma pela entrada padrão (`System.in`). A leitura da entrada é encerrada quando for lida uma linha contendo apenas o caractere **0**.
 
-**OBS: Maioria dos meus testes foram utilizando páginas de celulares e lembrando que a plataforma contém uma grande gama de layouts de páginas de produtos. Hehehe ;(**
+**OBS: Maioria dos meus testes foram utilizando páginas de [celulares]("https://celulares.mercadolivre.com.br/#menu=categories") e lembrando que a plataforma contém uma grande gama de layouts de páginas de produtos. Hehehe ;(**
 
 Exemplo de entrada:
 
@@ -96,7 +96,7 @@ URL inválida
 
 ## Contato
 
-Qualquer coisa pode me chamar no discord ou mesmo mandar um email fica ao seu criterio :)
+Qualquer coisa pode me chamar no discord ou mesmo mandar um email fica ao seu critério :)
 
 -   Discord: reaborn#8454
 -   Email: henrique.hott1996@gmail.com

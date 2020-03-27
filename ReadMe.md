@@ -1,6 +1,6 @@
 # LettTest
 
-Repositório criado para o teste seletivo de estágio Java (Crawler e Data quality) da LettDigital.
+Repositório criado para o teste seletivo de estágio Java (Crawler e Data quality) da Lett.
 
 ## Questão 1 - Solução para representação dos animais de uma fazenda
 
